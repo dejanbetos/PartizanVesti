@@ -14,3 +14,8 @@ Displayed news are up to 5 days old.
 
 # Android app
 https://play.google.com/store/apps/details?id=com.dejanbetos.PartizanVesti
+
+
+## Author
+Dejan Betos
+email: dejanbetos@hotmail.com
