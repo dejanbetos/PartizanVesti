@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# PartizanVesti / PartizanNews
 
-You can use the [editor on GitHub](https://github.com/dejanbetos/PartizanVesti/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Sve vesti o Partizanu.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aplikacija sakuplja vesti sa različitih portala na srpskom jeziku i filtrira samo vesti o Partizanu.
+Prikazuju se samo vesti do 3 dana starosti.
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Feed news about Partizan.
 
-```markdown
-Syntax highlighted code block
+The app is collecting news from various Serbian news portals and filters only the news about Partizan.
+Displayed news are up to 5 days old.
 
-# Header 1
-## Header 2
-### Header 3
+# Android app
+https://play.google.com/store/apps/details?id=com.dejanbetos.PartizanVesti
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Author
+Dejan Betos
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dejanbetos/PartizanVesti/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+email: dejanbetos@hotmail.com
