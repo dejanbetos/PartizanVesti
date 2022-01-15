@@ -1,4 +1,7 @@
-# PartizanVesti / PartizanNews
+# Android app
+[Partizan Vesti - Google Play Store](https://play.google.com/store/apps/details?id=com.dejanbetos.PartizanVesti)
+
+# PartizanVesti
 
 Sve vesti o Partizanu.
 
@@ -82,17 +85,21 @@ www: https://www.danas.rs
 Email: online@danas.rs
 Telefon: (381) 011 344-11 86
 
+## Autor
+Dejan Betos
+email: dejanbetos@hotmail.com
+
+
 ---
+# PartizanNews
 
 Feed news about Partizan.
 
 The app is collecting news from various Serbian news portals and filters only the news about Partizan. Displayed news are up to 3 days old.
 All the articles in the application are chosen and set by the portals from the sources list. PartizanVesti is not the author nor the owner of articles' titles and descriptions. Source is clearly stated for every article. Complete original article can be read by opening the link in the upper right corner of the description. Displayed date and time represent the date and time when original article is created.
 
-# Android app
-[Partizan Vesti - Google Play Store](https://play.google.com/store/apps/details?id=com.dejanbetos.PartizanVesti)
-
 # Sources
+
 www: https://www.mozzartsport.com
 Email: mozzart.sport@mozzartbet.com
 Phone: +381 11 7858 276 
