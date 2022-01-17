@@ -1,7 +1,10 @@
-# Android app
+# PartizanVesti
+
+## Android app
+
 [Partizan Vesti - Google Play Store](https://play.google.com/store/apps/details?id=com.dejanbetos.PartizanVesti)
 
-# PartizanVesti
+# Partizan Vesti
 
 Sve vesti o Partizanu.
 
@@ -91,7 +94,7 @@ email: dejanbetos@hotmail.com
 
 
 ---
-# PartizanNews
+# Partizan News
 
 Feed news about Partizan.
 
